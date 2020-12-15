@@ -32,4 +32,5 @@ b = 5
 pi = 4 * m
 
 puts "Pi skaicius: #{pi}"
+puts 'test'
 
